@@ -35,8 +35,6 @@ public class Practice {
         System.out.println("maxInt + 1: " + (Integer.MAX_VALUE + 1));
     }
 
-
-
     public static void main(String[] args) {
         intOperations();
         intAndDoubleOperations();
